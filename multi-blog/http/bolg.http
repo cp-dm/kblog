@@ -1,0 +1,8 @@
+### 조회
+GET http://localhost:8080/blog?query=카카오뱅크
+
+### 조회
+GET http://localhost:8080/blog?query=카카오뱅크
+
+### 조회
+GET http://localhost:8080/blog?query=카카오뱅크적금
